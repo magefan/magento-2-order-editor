@@ -2,36 +2,48 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-order-edit_1.jpg">
 
-[Magento 2 Order Editor](https://magefan.com/magento-2-edit-order-extension)  is the extension that allows you to edit orders without cancelling them. You can edit all order-related information right in the admin panel without having to change statuses or disrupt the workflow.
+[Magento 2 Order Editor](https://magefan.com/magento-2-edit-order-extension) is an extenison that give you full control over order management and existing order updates directly from the admin panel.
 
-Does a customer want to change something after the order has been placed? Easy! Just use this Magento Order Editor and make changes within seconds!
+Instead of canceling orders and creating new ones for small changes, you can now edit products, quantities, prices, customer information, shipping methods, payment methods, and other order details in just a few clicks.
+
+This extension helps you handle customer requests faster, reduce manual work, and improve the post-purchase experience without disrupting the order workflow.
+
+> **Note:** Best for stores with high-volume orders that need flexible order management and quick post-purchase order updates.
 
 Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
-<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+<a href="https://magefan.com/blog/join-our-donations"><img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg"></a>
 
 <a href="https://magefan.com/magento-2-edit-order-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
 
-## Useful Links
-  * [User Guide](https://magefan.com/magento-2-edit-order-extension/documentation)
-  * [Change Log](https://magefan.com/magento-2-edit-order-extension/change-log)
-  * [FAQs](https://magefan.com/magento-2-edit-order-extension#pattr-faq)
+## Why Use Magento 2 Order Editor?
+The order management system in Magento 2 is feature-rich. However, when it comes to editing orders after placement, the options are quite limited. 
 
-## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
-    
-## Benefits
-* [Edit All Order Information](https://github.com/magefan/module-order-editor?tab=readme-ov-file#edit-all-order-information)
-* [Edit or Change Customer Details](https://github.com/magefan/module-order-editor?tab=readme-ov-file#edit-or-change-customer-details)
-* [Update Shipping and Billing Addresses](https://github.com/magefan/module-order-editor?tab=readme-ov-file#update-shipping-and-billing-addresses)
-* [Adjust Shipping and Payment Methods](https://github.com/magefan/module-order-editor?tab=readme-ov-file#adjust-shipping-and-payment-methods)
-* [Edit Order’s Tax Rates](https://github.com/magefan/module-order-editor?tab=readme-ov-file#edit-orders-tax-rates)
-* [Update or Set Custom Shipping Rates](https://github.com/magefan/module-order-editor?tab=readme-ov-file#update-or-set-custom-shipping-rates)
-* [Update, Add or Remove Ordered Items](https://github.com/magefan/module-order-editor?tab=readme-ov-file#update-add-or-remove-ordered-items)
-* [Track All Order Changes](https://github.com/magefan/module-order-editor?tab=readme-ov-file#track-all-order-changes)
-* [Use the Quick Editing Form](https://github.com/magefan/module-order-editor?tab=readme-ov-file#use-the-quick-editing-form)
-* [Define What Orders Can Be Edited](https://github.com/magefan/module-order-editor?tab=readme-ov-file#define-what-orders-can-be-edited)
+When customers request changes, merchants often face unnecessary manual work:
 
-## Features
+* Orders cannot be edited after they are placed
+* Small mistakes require canceling and recreating the entire order
+* Admins cannot easily add or remove items from an order
+* Recreating orders breaks order history and wastes time
+
+The Magefan Magento 2 Order Editor solves these issues by allowing admins to modify order details directly from the Magento admin panel without canceling the order. 
+
+You can quickly update products, quantities, addresses, shipping or payment methods, and other order data in just a few clicks, saving time for your support team and improving the customer experience.
+
+## Features of the Magento 2 Order Editor by Magefan
+* Edit Magento 2 orders without canceling them
+* Update order number, order status, and date
+* Change customer information or reassign the order to a different customer
+* Change shipping methods and set custom shipping rates
+* Modify offline payment methods 
+* Add, remove, or replace products in the order
+* Edit ordered item quantity, price, options, and discounts
+* Update tax rates when order details change
+* Use the quick order edit form to modify all order data on one page
+* Track all order changes with a detailed log
+* Restrict order editing by admin users or order statuses
+
+## Benefits of the Order Editor in Magento
 
 ### Edit All Order Information
 
@@ -150,6 +162,24 @@ Could you ask for more?
   <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/order-editor-restrictions-magento.png">
 </p>
 
+## Frequently Asked Questions about the Magento Order Editor
+### Can I edit orders in Magento 2 by default?
+No. Safe for the billing and shipping addresses, Magento 2 does not allow you to edit orders once they are placed. The default workflow requires you to cancel the order and create a new one if changes are needed. 
+
+The Magento 2 Order Editor extension allows you to update order details without canceling the order.
+
+### What order details can be edited with Magento 2 Order Editor?
+You can edit customer information, billing and shipping addresses, shipping and offline payment methods, ordered products, quantities, prices, tax rates, and order status.
+
+### Can I change products in an existing Magento 2 order?
+By default, you cannot replace items in the existing Magento order, but have to cancel it and create a new one. 
+
+With Magento Order Edit Extension, you can add, remove, or replace items in an existing order and update product options, quantity, and price directly from the order page.
+
+### Can I track changes made to edited orders?
+Yes. The extension keeps a log of order changes, including what was modified and which admin user made the update, giving full control and transparency over order management.
+
+
 
 ## Demo
 
@@ -215,7 +245,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 
 ### Magento 2 SEO Extensions
 
-* [Magento SEO](https://magefan.com/magento-2-seo-extension)
+* [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension)
 * [Magento 2 Rich Snippets](https://magefan.com/magento-2-rich-snippets)
 * [Magento 2 HTML Sitemap](https://magefan.com/magento-2-html-sitemap-extension)
 * [Magento 2 XML Sitemap](https://magefan.com/magento-2-xml-sitemap-extension)
